@@ -15,3 +15,7 @@ This is reagain another simple website project
 Okay!
 
 ##How To Contribute
+
+###Copyright
+
+2016. Git.Training.
