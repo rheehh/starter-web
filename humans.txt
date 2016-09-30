@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+  Hakhyun Lee rheehh@naver.com 
     <name> -- <role> -- <twitter>
 
 # THANKS
