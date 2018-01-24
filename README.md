@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review
 
 2016. Git.Training.
 
-Thanks a lot!
+Thanks a lot! again.
